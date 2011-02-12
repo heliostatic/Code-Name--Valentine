@@ -1,0 +1,4 @@
+body    { background-color: #eec; background-image: url("http://poetry.eserver.org/sonnets/shakespeare.png"); background-repeat: no-repeat }
+p {}
+td {}
+table  { margin-top: 64px; margin-left: 280px }

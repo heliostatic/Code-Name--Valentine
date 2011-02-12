@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /Control_Panel
+Disallow: /virtual_hosting
+Sitemap: http://poetry.eserver.org/sitemap.xml
